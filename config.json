@@ -1,0 +1,15 @@
+{
+    "UserId": "999999999999999",
+    "Username": "username",
+    "ListFileName": "exampleList.txt",
+    "SplitCharacter": ",#",
+    "EntryDataDivider": ",",
+    "SkipPlannedToWatch": true,
+    "StatusText": {
+        "Completed": "Completed",
+        "Watching": "Watching",
+        "OnHold": "On Hold",
+        "Dropped": "Dropped",
+        "PlannedToWatch": "Plan To Watch"
+    }
+}
